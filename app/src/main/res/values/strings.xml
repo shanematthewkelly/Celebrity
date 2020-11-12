@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spend Celebs Money</string>
+    <string name="tab_text_1">High Worth</string>
+    <string name="tab_text_2">Mid Worth</string>
+    <string name="tab_text_3">My Worth</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
